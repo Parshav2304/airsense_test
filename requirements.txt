@@ -2,22 +2,20 @@
 # Install with: pip install -r requirements.txt
 
 # Core
-streamlit==1.29.0
-
-# Data Processing
-pandas==2.1.3
-numpy==1.26.2
+streamlit
+pandas
+numpy
 
 # Visualization
-plotly==5.18.0
-matplotlib==3.8.2
-seaborn==0.13.0
+plotly
+matplotlib
+seaborn
 
 # API Integration (optional)
-requests==2.31.0
+requests
 
 # Date/Time
-python-dateutil==2.8.2
+python-dateutil
 
 # Additional utilities
-Pillow==10.1.0
+Pillow
