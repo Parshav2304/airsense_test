@@ -1,0 +1,23 @@
+# AirSense AI - Streamlit Requirements
+# Install with: pip install -r requirements.txt
+
+# Core
+streamlit==1.29.0
+
+# Data Processing
+pandas==2.1.3
+numpy==1.26.2
+
+# Visualization
+plotly==5.18.0
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# API Integration (optional)
+requests==2.31.0
+
+# Date/Time
+python-dateutil==2.8.2
+
+# Additional utilities
+Pillow==10.1.0
