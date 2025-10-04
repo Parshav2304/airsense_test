@@ -1,8 +1,3 @@
-"""
-VayuTrack - Pollution Monitoring Dashboard
-Main Entry Point: Run with 'streamlit run app.py'
-"""
-
 import streamlit as st
 import pandas as pd
 import numpy as np
